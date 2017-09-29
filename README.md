@@ -1,10 +1,10 @@
-# AstroPi_2017
+# Introduction
 
-We are a group of students from “Tudor Vianu” National Highschool of Computer Science, deeply passionate about programming, robotics and physics. We are eager to learn new things about our world. Even if we are only at the beginning of our journey into the misteries of science, we are very enthusiastic to research and to conduct an experiment about the topic that we have chosen. We are curious what the results of this experiment might be and whether they might be used by such an important organisation. We appreciate this chance and our team would like to thank you for giving us this great opportunity. 
+We are a group of students from “Tudor Vianu” National Highschool of Computer Science, Bucharest, deeply passionate about programming, robotics and physics. We are eager to learn new things about our world. Even if we are only at the beginning of our journey into the misteries of science, we are very enthusiastic to research and to conduct an experiment about the topic that we have chosen. We appreciate this chance and our team would like to thank you for giving us this great opportunity. 
 
 Our idea is to investigate the magnetic field of Earth, using Astro Pi kit. 
 
-Our objectives are:
+Our objectives :
 -	to follow the trajectory of ISS and find out if Earth’s magnetic poles have any influence on the instruments on board.
 -	to investigate if there are areas on Earth where the magnetic field has reversed its poles.
 -	to use sound and light warnings for the ISS crew when an increase in the intensity of Earth’s magnetic field is detected and activate a camera which photographs the auroras.
